@@ -1,0 +1,96 @@
+/*---------- Sass Variabler ----------*/
+$primary_black: #252525;
+$primary_white: #ffffff;
+$primary_blue: #a1beda;
+
+/*-----*/
+/*---------- fonts ----------*/
+$secondary_font: "Shadows Into Light", cursive;
+$primary_font: "Abel", sans-serif;
+
+/*-----*/
+/*---------- general --------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  display: block;
+}
+
+h1 {
+  font-family: $secondary_font;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: $primary_black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: $primary_font;
+  font-size: 30px;
+  text-align: center;
+  color: $primary_black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: $primary_font;
+  font-size: 25px;
+  text-align: center;
+  color: $primary_black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: $primary_font;
+  font-size: 14px;
+  color: $primary_black;
+  padding: 10px;
+}
+
+.topbar {
+  background-color: $primary_blue;
+  padding: 13.5px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+body {
+  font-family: $primary_font;
+}
+
+/*-----*/
+/*---------- navigation / tabbar ----------*/
+nav {
+  background-color: var(--green);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+/* Style linksne inde i nav. baren */
+nav a {
+  display: inline-block;
+  color: $primary_black;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 0.8em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/*-----*/
+/*---------- Forside ----------*/
+
+/*-----*/

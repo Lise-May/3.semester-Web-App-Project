@@ -1,0 +1,90 @@
+/*---------- Sass Variabler ----------*/
+/*-----*/
+/*---------- fonts ----------*/
+/*-----*/
+/*---------- general --------- */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  display: block;
+}
+
+h1 {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: #252525;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: "Abel", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #252525;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Abel", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: #252525;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: "Abel", sans-serif;
+  font-size: 14px;
+  color: #252525;
+  padding: 10px;
+}
+
+.topbar {
+  background-color: #a1beda;
+  padding: 13.5px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+body {
+  font-family: "Abel", sans-serif;
+}
+
+/*-----*/
+/*---------- navigation / tabbar ----------*/
+nav {
+  background-color: var(--green);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+/* Style linksne inde i nav. baren */
+nav a {
+  display: inline-block;
+  color: #252525;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 0.8em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/*-----*/
+/*---------- Forside ----------*/
+/*-----*/
+/*# sourceMappingURL=style.css.map */
