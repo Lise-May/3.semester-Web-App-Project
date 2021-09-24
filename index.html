@@ -17,19 +17,20 @@
 <body>
     <!-- Navigation -->
     <nav>
-        <a class="nav-link" href="#/search"><img src="img/søg_icon.PNG" alt="søg icon"/></a>
-        <a class="nav-link" href="#/camera"><img src="img/camera_icon.PNG" class="nav-icon" alt="camera icon"/></a>
-        <a class="nav-link" href="#/"><img src="img/home_icon.PNG" alt="hus icon"/></a>
+        <a class="nav-link nav_right_line" href="#/search"><img src="img/søg_icon.PNG" class="nav_icon" alt="søg icon"/></a>
+        <a class="nav-link nav_right_line" href="#/camera"><img src="img/camera_icon.PNG" class="nav_icon" alt="camera icon"/></a>
+        <a class="nav-link" href="#/"><img src="img/home_icon.PNG" class="nav_icon" alt="hus icon"/></a>
     </nav>
     
     <main id="appRoot">
 
         <!-- home side -->
-        <section id="home" class="page">
-            <header class="topbar">
-                <h1>Laundry Helper</h1>
+        <section id="home" class="page page_home">
+            <header class="topbar topbar_home">
+                <h1 class="h1_home">Laundry Helper</h1>
             </header>
-            <p>Forside med en masse tekst</p>
+            <p>Forside</p>
+            
         </section>
         
         <!-- søg side -->
@@ -48,10 +49,17 @@
             <p>camera</p>
         </section>
 
+        <section id="search_choose_category" class="page">
+            <header class="topbar">
+                <h1>Laundry Helper</h1>
+            </header>
+            <h2>Vælg kategori</h2>
+        </section>
+
     </main>
     
   <!-- main js fil -->
-  <script src="js/main.js"></script>
+  <script src="js/router.js" type="module" ></script>
 </body>
 
 </html>

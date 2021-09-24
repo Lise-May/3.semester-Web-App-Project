@@ -3,23 +3,12 @@
 /*---------- fonts ----------*/
 /*-----*/
 /*---------- general --------- */
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  text-decoration: none;
-  display: block;
-}
-
 h1 {
   font-family: "Shadows Into Light", cursive;
   font-weight: 700;
-  font-size: 35px;
+  font-size: 25px;
   text-align: center;
   color: #252525;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 h2 {
@@ -44,12 +33,10 @@ p {
   font-family: "Abel", sans-serif;
   font-size: 14px;
   color: #252525;
-  padding: 10px;
 }
 
 .topbar {
   background-color: #a1beda;
-  padding: 13.5px;
   position: fixed;
   top: 0;
   left: 0;
@@ -59,32 +46,52 @@ p {
 
 body {
   font-family: "Abel", sans-serif;
+  background-color: #eaeaea;
+}
+
+.page {
+  padding-top: 70px;
 }
 
 /*-----*/
 /*---------- navigation / tabbar ----------*/
 nav {
-  background-color: var(--green);
   position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   z-index: 9999;
+  border: 1px solid #252525;
+  height: 68px;
+  background-color: #a1beda;
 }
 
-/* Style linksne inde i nav. baren */
 nav a {
   display: inline-block;
-  color: #252525;
-  text-align: center;
-  padding: 20px 16px;
-  text-decoration: none;
-  font-size: 0.8em;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  padding: 15px 40px;
+}
+
+.nav_right_line {
+  border-right: 1px solid black;
+}
+
+.nav_icon {
+  height: 35px;
 }
 
 /*-----*/
 /*---------- Forside ----------*/
+.topbar_home {
+  padding: 13.5px;
+}
+
+.page_home {
+  padding-top: 135px;
+}
+
+.h1_home {
+  font-size: 35px;
+}
+
 /*-----*/
 /*# sourceMappingURL=style.css.map */

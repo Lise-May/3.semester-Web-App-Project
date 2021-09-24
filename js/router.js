@@ -1,10 +1,11 @@
-console.log("main.js er oppe at gøre!");
+console.log("router.js er oppe at gøre!");
 
 /* alle ruter fra nav. "path": "id of page in DOM"*/
 const routes = {
     "#/": "home",
     "#/camera": "camera",
     "#/search": "search",
+    "#/search_choose_category": "search choose category",
 };
 
 /*Ændre display til none for alle siderne*/
