@@ -5,6 +5,7 @@ $primary_light_gray: #eaeaea;
 $primary_blue: #a1beda;
 
 $secondary_white: #f6f6f6;
+$secondary_gray: #a19e9e;
 
 /*-----*/
 /*---------- fonts ----------*/
@@ -20,6 +21,8 @@ h1 {
   font-size: 25px;
   text-align: center;
   color: $primary_black;
+  display: inline-block;
+  padding-left: 23%;
 }
 
 h2 {
@@ -27,8 +30,8 @@ h2 {
   font-size: 30px;
   text-align: center;
   color: $primary_black;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
+  font-weight: bold;
 }
 
 h3 {
@@ -42,7 +45,7 @@ h3 {
 
 p {
   font-family: $primary_font;
-  font-size: 14px;
+  font-size: 16px;
   color: $primary_black;
 }
 
@@ -53,6 +56,9 @@ p {
   left: 0;
   right: 0;
   z-index: 9999;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 body {
@@ -62,6 +68,18 @@ body {
 
 .page {
   padding-top: 70px;
+}
+
+.back_arrow {
+  height: 35px;
+  padding: 10px 0px 10px 10px;
+}
+
+.line {
+  height: 2px;
+  background-color: $secondary_gray;
+  width: 65%; //længde
+  margin: 15px 0 20px 27%;
 }
 
 /*-----*/
@@ -121,3 +139,25 @@ nav a {
 }
 
 /*-----*/
+/*---------- Søg - Vælg kategori ----------*/
+.choose_category_section{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.choose_category_img{
+  border: 1px solid $primary_black;
+  height: 70px;
+}
+
+.choose_category_arrow{
+  height: 20px;
+  padding-top: 22px;
+  padding: 22px 10px 22px 40%;
+}
+
+
+
+/*-----*/
+/*---------- XXX ----------*/

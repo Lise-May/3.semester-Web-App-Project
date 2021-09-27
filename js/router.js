@@ -5,7 +5,7 @@ const routes = {
     "#/": "home",
     "#/camera": "camera",
     "#/search": "search",
-    "#/search_choose_category": "search choose category",
+    "#/wash": "wash",
 };
 
 /*Ændre display til none for alle siderne*/
