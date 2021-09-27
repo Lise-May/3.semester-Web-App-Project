@@ -79,7 +79,10 @@ nav {
 
 nav a {
   display: inline-block;
-  padding: 15px 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32%;
+
 }
 
 .nav_right_line {
@@ -87,7 +90,11 @@ nav a {
 }
 
 .nav_icon {
-  height: 35px;
+  height: 45px;
+  padding: 11px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /*-----*/
@@ -104,4 +111,13 @@ nav a {
 .h1_home {
   font-size: 35px;
 }
+
+.category_img{
+  width: 65%;
+  padding-top: 10px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 /*-----*/
