@@ -134,8 +134,174 @@
         "img": "img/Blegning-Nej.JPG",
         "type":"Hårdt for tøjet",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive bleget.</p>"
+    },
+    {
+        "id":16,
+        "title":"Kan rensens",
+        "Category":"Rensning",
+        "img": "img/Rensning-kulbrinte.JPG",
+        "type":"Med kulbrinte",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af kulbrinte.</p><h3>Hvad er kulbrinte?</h3><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+    },
+    {
+        "id":17,
+        "title":"Skånsom rens",
+        "Category":"Rensning",
+        "img": "img/Rensning-S-kulbrinte.JPG",
+        "type":"Med kulbrinte",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af kulbrinte.</p><h3>Hvad er kulbrinte?</h3><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+    },
+    {
+        "id":18,
+        "title":"Kan rensens",
+        "Category":"Rensning",
+        "img": "img/Rensning-perklor-kulbrinte.JPG",
+        "type":"Med perklor eller kulbrinte",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af perklor eller kulbrinte.</p><h3>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+    },
+    {
+        "id":19,
+        "title":"Skånsom rens",
+        "Category":"Rensning",
+        "img": "img/Rensning-S-perklor-kulbrinte.JPG",
+        "type":"Med perklor eller kulbrinte",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af perklor eller kulbrinte.</p><h3>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+    },
+    {
+        "id":20,
+        "title":"Må ikke renses",
+        "Category":"Rensning",
+        "img": "img/Rensning-Nej.JPG",
+        "type":"",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet IKKE må renses.</p>"
+    },
+    {
+        "id":21,
+        "title":"Professionel",
+        "Category":"Rensning",
+        "img": "img/Rensning-Pr-Vå.JPG",
+        "type":"vådrens",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle professionelvådrens.</p>"
+    },
+    {
+        "id":22,
+        "title":"Professionel",
+        "Category":"Rensning",
+        "img": "img/Rensning-S-Pr-Vå.JPG",
+        "type":"Skånsom vådrens",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom professionel vådrens.</p>"
+    },
+    {
+        "id":23,
+        "title":"Professionel",
+        "Category":"Rensning",
+        "img": "img/Rensning-ES-Pr-Vå.JPG",
+        "type":"Ekstra skånsom vådrens",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle ekstra skånsom professionel vådrens.</p>"
+    },
+    {
+        "id":24,
+        "title":"Kan tørretumbles",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Tørretumbles.JPG",
+        "type":"Uden særlig forbehold",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørres uden særlig forbehold. Den typiske funktionen for dette hedder ''skabstør plus''.</p>"
+    },
+    {
+        "id":25,
+        "title":"Kan tørretumbles",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Tørretumbles-Lav-Te.JPG",
+        "type":"Kun lav temperatur",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørretumblers ved lavtemperatur. Den typiske funktionen hedder ''strygetørt''.</p><h3>Vigtig information</h3><p>HUSK at tjekke om din tørretumblers ''strygetørt'' tørre vedlavere temperatur.</p>"
+    },
+    {
+        "id":26,
+        "title":"Kan tørretumbles",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Tørretumbles-Normal-Te.JPG",
+        "type":"Ved normal temperatur",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørretumblers, men IKKE ved høj temperatur. Den typiske funktionen hedder''skabstør''.</p><h3>Vigtig information</h3><p>HUSK at tjekke om din tørretumblers ''skabstør'' tørre vedlavere temperatur.</p>"
+    },
+    {
+        "id":27,
+        "title":"Kan ikke tørretumbles",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Nej.JPG",
+        "type":"Lufttør i stedet",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet IKKE kan tåle at tørretumblers.</p><h3>Hvad gør jeg så?</h3><p>Du kan i stedet hænge eller ligge produktet til tørre i stedet.</p>"
+    },
+    {
+        "id":28,
+        "title":"Dryptørring",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Dryptørring.JPG",
+        "type":"Hænges til tørre",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal dryptørre dit produkt.</p><h3>God information</h3><p>Du kan med fordel hænge produktet på en bøjle, så produktet hænger frit, og kan få massere af luft.</p>"
+    },
+    {
+        "id":29,
+        "title":"Liggetørring",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Liggetørring.JPG",
+        "type":"Skal ligge vandret og tørre",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal ligge vandret at tørre.</p><h3>God information</h3><p>Produktet har bedst af at ligge frit så det kan få godt med luft.</p><p>Du kan også ligge produktet på et håndklæde og lade det tørre der.</p>"
+    },
+    {
+        "id":30,
+        "title":"Hængetørring",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Hængetørring.JPG",
+        "type":"Kan evt. hænge på et tørrestativ",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal hænge til tørre.</p><h3>God information</h3><p>Benyt med fordel et tørrestativ eller lig, så det kan få en masse luft.</p>"
+    },
+    {
+        "id":31,
+        "title":"Tørre i skyggen",
+        "Category":"Tørreing",
+        "img": "img/Tørring-Skygge.JPG",
+        "type":"Ikke i sollys",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet SKAL tørre i skyggen. Derfor må det ikke ligge, at tørre i direkte sollys</p>"
+    },
+    {
+        "id":32,
+        "title":"Kan stryges",
+        "Category":"Strygning",
+        "img": "img/Stryge-Lav-Te.JPG",
+        "type":"Maks. 110°",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved lav temperatur som maks. er 110°.</p><h3>Vigtig information</h3><p>Produktet kan højst sandsynlig vis IKKE tåle damp, derfor skal du være meget opmærksom på dette.</p><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+    },
+    {
+        "id":33,
+        "title":"Kan stryges",
+        "Category":"Strygning",
+        "img": "img/Stryge-Middel-Te.JPG",
+        "type":"Maks. 150°",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved en midden temperatur som maks. er 150°.</p><h3>Vigtig information</h3><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+    },
+    {
+        "id":34,
+        "title":"Kan stryges",
+        "Category":"Strygning",
+        "img": "img/Stryge-Høj-Te.JPG",
+        "type":"Maks. 200°",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved høj temperatur som maks. er 200°.</p><h3>Vigtig information</h3><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+    },
+    {
+        "id":35,
+        "title":"Professionel",
+        "Category":"Strygning",
+        "img": "img/Stryge-Nej.JPG",
+        "type":"Ekstra skånsom vådrens",
+        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive strøget.</p>"
+    },
+    {
+        "id":36,
+        "title":"Tøj sortering",
+        "Category":"sortering",
+        "img": "img/Farver.JPG",
+        "type":"Farver og vaskepose tips",
+        "description":"<h3>Farve sortering</h3><p>Når du sortere dit vasketøj efter farver, skal du huske at tænke på om produktet er helt nyt eller har været vasket flere gange før.</p><h3>Har IKKE være vasket før</h3><p>Har dit vasketøj ikke været vasket før er det meget vigtigt at du vasker sort med sort, grå med grå osv. så du er sikker på at farven ikke smitter af.</p><h3>HAR det været vasket før</h3><p>Har dit vasketøj været vasket før kan du godt blande lidt mere i farverne. Du kan eks. følge denne udgave af sortering.</p><h3>Tøj i vaskepose?</h3><p>Du kan med fordel vaske undertøj(underbukser/trusser, bh'er) i vaskeposer. Vaskeposer er også en god måde at holde styr på eks. strømper på.</p>"
     }
-    
-    
     
 ]
