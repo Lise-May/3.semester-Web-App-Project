@@ -30,13 +30,13 @@
                 <h1 class="h1_home">Laundry Helper</h1>
             </header>
             <article class="category_home">
-                <img href="#" src="img/Timer.png" class="category_img" alt="timer">
+                <a href="#"><img src="img/Timer.png" class="category_img" alt="timer"></a>
             </article>
             <article class="category">
-                <img href="#" src="img/vaskemærker.png" class="category_img" alt="vaskemærker vanske symboler vask ikoner iconer">
+                <a class="catergory_wash" href="#/washingSymbolFilter"><img src="img/vaskemærker.png" class="category_img" alt="vaskemærker vanske symboler vask ikoner iconer"></a>
             </article>
             <article class="category">
-                <img href="#" src="img/Tekstil.png" class="category_img" alt="teksyil">
+                <a href="#"><img src="img/Tekstil.png" class="category_img" alt="teksyil"></a>
             </article>
             
         </section>
@@ -44,7 +44,7 @@
         <!-- søg side -->
         <section id="search" class="page">
             <header class="topbar">
-                <a class="nav-link" href="#/"></a> <img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
+                <a class="nav-link" href="#/"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
                 <h1>Laundry Helper</h1>
             </header>
             <h2>Vælg kategori</h2>
@@ -91,30 +91,45 @@
             <br><br><br><br>
       </section>
   
-      <!-- camera side -->
+        <!-- camera side -->
         <section id="camera" class="page">
             <header class="topbar">
+                <a class="nav-link" href="#/"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
                 <h1>Laundry Helper</h1>
             </header>
             <p>camera</p>
         </section>
 
-        <section id="washing_symbols_filter" class="page">
+        <!-- Vaske symbol side -->
+        <section id="washingSymbolFilter" class="page">
             <header class="topbar">
+                <a class="nav-link" href="#/"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
                 <h1>Laundry Helper</h1>
             </header>
             <h2>Vaske symboler</h2>
-
-
-
-
-
-
-
-
-
+            <section class="tools-grid">
+                <label for="sortBy">Filtrer efter:
+                  <select id="sortBy" onchange="orderBy(this.value)">
+                    <option value="" selected disabled>Alle</option>
+                    <option value="vask">Vask</option>
+                    <option value="blegning">Blegning</option>
+                    <option value="rensning">Rensning</option>
+                    <option value="tørring">Tørring</option>
+                    <option value="strygning">Strygning</option>
+                  </select>
+                </label>
+                <section id="icons-container" class="grid-container"></section>
+            </section>
 
         </section>
+        <!-- se detalje side -->
+        <section id="detail-view" class="page">
+            <header class="topbar">
+                <a class="nav-link" href="#/"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
+                <h1>Laundry Helper</h1>
+            </header>
+        <section id="detail-view-container"></section>
+    </section>
         
         
     </main>
