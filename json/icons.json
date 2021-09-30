@@ -120,7 +120,7 @@
         "id":14,
         "title":"Må ikke vaskes",
         "Category":"Vask",
-        "img": "img/Vask-Nej.JPG",
+        "img": "img/Vask-Nej-40.JPG",
         "type":"Luftes",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du IKKE må vaske dette produkt.</p><h3>Hvad gør jeg så?</h3><p>Hæng produktet udenfor for at blive luftet.</p>"
@@ -138,7 +138,7 @@
         "id":16,
         "title":"Kan bleges",
         "Category":"Blegning",
-        "img": "img/Blegnin-Oxygen.JPG",
+        "img": "img/Blegning-Oxygen.JPG",
         "type":"Kun med Oxygen",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du kan blege produktet, dog kun ved benyttelse af oxygen </p><h3>Vigtig information</h3><p>Alle former for blege middel er hårdt for tøjet, og at fibrene i tøjet vil blive ødelagt med tiden.</p><p>Derfor er det vigtigt at du kun bleger dit tøj, hvis det er meget vigtigt.</p>"
@@ -331,15 +331,6 @@
         "type":"Ekstra skånsom vådrens",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive strøget.</p>"
-    },
-    {
-        "id":36,
-        "title":"Tøj sortering",
-        "Category":"sortering",
-        "img": "img/Farver.JPG",
-        "type":"Farver og vaskepose tips",
-        "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Farve sortering</h3><p>Når du sortere dit vasketøj efter farver, skal du huske at tænke på om produktet er helt nyt eller har været vasket flere gange før.</p><h3>Har IKKE være vasket før</h3><p>Har dit vasketøj ikke været vasket før er det meget vigtigt at du vasker sort med sort, grå med grå osv. så du er sikker på at farven ikke smitter af.</p><h3>HAR det været vasket før</h3><p>Har dit vasketøj været vasket før kan du godt blande lidt mere i farverne. Du kan eks. følge denne udgave af sortering.</p><h3>Tøj i vaskepose?</h3><p>Du kan med fordel vaske undertøj(underbukser/trusser, bh'er) i vaskeposer. Vaskeposer er også en god måde at holde styr på eks. strømper på.</p>"
     }
     
 ]

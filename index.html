@@ -108,17 +108,20 @@
             </header>
             <h2>Vaske symboler</h2>
             <section class="tools-grid">
-                <label for="sortBy">Filtrer efter:
-                  <select id="sortBy" onchange="orderBy(this.value)">
-                    <option value="" selected disabled>Alle</option>
-                    <option value="vask">Vask</option>
-                    <option value="blegning">Blegning</option>
-                    <option value="rensning">Rensning</option>
-                    <option value="tørring">Tørring</option>
-                    <option value="strygning">Strygning</option>
-                  </select>
+                <label for="sortBy" class="washing_symbol_filter">Filtrer efter:
+                        <select id="sortBy" onchange="sortBy(this.value)">
+                        <section class="washing_symbol_section"></section>
+                            <option value="" selected disabled>Alle</option>
+                            <option value="vask">Vask</option>
+                            <option value="blegning">Blegning</option>
+                            <option value="rensning">Rensning</option>
+                            <option value="tørring">Tørring</option>
+                            <option value="strygning">Strygning</option>
+                        </select>
+                    </section>
                 </label>
                 <section id="icons-container" class="grid-container"></section>
+                <br><br><br><br>
             </section>
 
         </section>

@@ -84,18 +84,18 @@ function appendIcons(icons) {
     let htmlTemplate = "";
     for (let icon of icons) {
       htmlTemplate += /*html*/`
-        <article onclick="showDetailView(${icons.id})">
-            <img src="${icons.img}">
-            <h3>${icons.title}</h3>
-            <h4>${icons.type}</h4>
-            <img src="${icons.arrow}">
+        <article class="choose_category_section" onclick="showDetailView(${icon.id})">
+            <img class="choose_category_img" src="${icon.img}">
+            <h3>${icon.title}</h3>
+            <h4>${icon.type}</h4>
+            <img class="choose_category_arrow" src="${icon.arrow}">
         </article>
       `;
     }
     document.querySelector('#icons-container').innerHTML = htmlTemplate;
 }
 
-//Filter funktioen
+//Filter funktioen sortBy
 function sortBy(option) { //orderBy hvis sortBy ikke vikre
     if (option === "vask") {
         sortByVask();
@@ -151,11 +151,11 @@ function showDetailView(id) {
     navigateTo("detail-view");
     document.querySelector("#detail-view .title").innerHTML = iconToShow.model;
     document.querySelector("#detail-view-container").innerHTML = /*html*/`
-      <img src="${iconToShow.img}">
+      <img class="icon_img_about" src="${iconToShow.img}">
       <article>
         <h2>${iconToShow.title}</h2>
         <h3>${iconToShow.type}</h3>
-        <p>${iconToShow.description}</p>
+        <p class="description_icon_text">${iconToShow.description}</p>
       </article>
     `;
   }
