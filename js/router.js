@@ -1,8 +1,6 @@
 /*Test om min router.js virker*/
 console.log("router.js er oppe at gøre!");
 
-/*global variables*/
-let _icons = [];
 
 /* --------------------------------------- NAV BAR ---------------------------------------------------*/
 //alle ruter fra nav. "path": "id of page in DOM"
@@ -11,7 +9,7 @@ const routes = {
     "#/camera": "camera",
     "#/search": "search",
     "#/washingSymbolFilter": "washingSymbolFilter",
-    "#/detail-view": "detail-view",
+    "#/detail-view": "detail-view"
 };
 
 //Ændre display til none for alle siderne

@@ -154,8 +154,6 @@ nav a {
 
 .choose_category_img{
   border: 1px solid $primary_black;
-  /*height: 80px;*/
-
   object-fit: cover;
   object-position: center;
   width: 100%;
@@ -167,4 +165,12 @@ nav a {
 }
 
 
+/*-----*/
+/*---------- se detalje side -----------*/
+
+.icon_img_about{
+  border: 1px solid $primary_black;
+  object-fit: cover;
+  object-position: center;
+}
 /*-----*/

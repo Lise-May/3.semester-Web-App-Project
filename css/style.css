@@ -140,7 +140,6 @@ nav a {
 
 .choose_category_img {
   border: 1px solid #252525;
-  /*height: 80px;*/
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: center;
@@ -151,6 +150,16 @@ nav a {
 .choose_category_arrow {
   height: 20px;
   padding-top: 22px;
+}
+
+/*-----*/
+/*---------- se detalje side -----------*/
+.icon_img_about {
+  border: 1px solid #252525;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
 }
 
 /*-----*/
