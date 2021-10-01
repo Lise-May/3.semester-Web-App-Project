@@ -1,3 +1,4 @@
+/*Test om min router.js virker*/
 console.log("router.js er oppe at gøre!");
 
 /*global variables*/
@@ -96,7 +97,7 @@ function appendIcons(icons) {
 }
 
 //Filter funktioen sortBy
-function sortBy(option) { //orderBy hvis sortBy ikke vikre
+function sortBy(option) {
     if (option === "vask") {
         sortByVask();
     } else if (option === "blegning") {
@@ -149,7 +150,7 @@ function sortByStrygning() {
 function showDetailView(id) {
     const iconToShow = _icons.find(icon => icon.id === id);
     navigateTo("detail-view");
-    document.querySelector("#detail-view .title").innerHTML = iconToShow.model;
+    document.querySelector("#detail-view .title").innerHTML = iconToShow.icon;
     document.querySelector("#detail-view-container").innerHTML = /*html*/`
       <img class="icon_img_about" src="${iconToShow.img}">
       <article>

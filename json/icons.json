@@ -121,7 +121,7 @@
         "title":"Må ikke vaskes",
         "Category":"Vask",
         "img": "img/Vask-Nej-40.JPG",
-        "type":"Luftes",
+        "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du IKKE må vaske dette produkt.</p><h3>Hvad gør jeg så?</h3><p>Hæng produktet udenfor for at blive luftet.</p>"
     },
@@ -145,10 +145,10 @@
     },
     {
         "id":15,
-        "title":"Ikke bleg",
+        "title":"Må ikke bleges",
         "Category":"Blegning",
         "img": "img/Blegning-Nej.JPG",
-        "type":"Hårdt for tøjet",
+        "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive bleget.</p>"
     },
@@ -226,7 +226,7 @@
     },
     {
         "id":24,
-        "title":"Kan tørretumbles",
+        "title":"Tørretumbles",
         "Category":"Tørreing",
         "img": "img/Tørring-Tørretumbles.JPG",
         "type":"Uden særlig forbehold",
@@ -235,7 +235,7 @@
     },
     {
         "id":25,
-        "title":"Kan tørretumbles",
+        "title":"Tørretumbles",
         "Category":"Tørreing",
         "img": "img/Tørring-Tørretumbles-Lav-Te.JPG",
         "type":"Kun lav temperatur",
@@ -244,7 +244,7 @@
     },
     {
         "id":26,
-        "title":"Kan tørretumbles",
+        "title":"Tørretumbles",
         "Category":"Tørreing",
         "img": "img/Tørring-Tørretumbles-Normal-Te.JPG",
         "type":"Ved normal temperatur",
@@ -253,10 +253,10 @@
     },
     {
         "id":27,
-        "title":"Kan ikke tørretumbles",
+        "title":"Må ikke tørretumbles",
         "Category":"Tørreing",
         "img": "img/Tørring-Nej.JPG",
-        "type":"Lufttør i stedet",
+        "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet IKKE kan tåle at tørretumblers.</p><h3>Hvad gør jeg så?</h3><p>Du kan i stedet hænge eller ligge produktet til tørre i stedet.</p>"
     },
@@ -280,7 +280,7 @@
     },
     {
         "id":30,
-        "title":"Hængetørring",
+        "title":"Hængetørre",
         "Category":"Tørreing",
         "img": "img/Tørring-Hængetørring.JPG",
         "type":"Kan evt. hænge på et tørrestativ",
@@ -289,7 +289,7 @@
     },
     {
         "id":31,
-        "title":"Tørre i skyggen",
+        "title":"Tør i skygge",
         "Category":"Tørreing",
         "img": "img/Tørring-Skygge.JPG",
         "type":"Ikke i sollys",
@@ -325,10 +325,10 @@
     },
     {
         "id":35,
-        "title":"Professionel",
+        "title":"Må ikke stryges",
         "Category":"Strygning",
         "img": "img/Stryge-Nej.JPG",
-        "type":"Ekstra skånsom vådrens",
+        "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive strøget.</p>"
     }

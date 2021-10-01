@@ -130,35 +130,27 @@ nav a {
 
 /*-----*/
 /*---------- Vaske symbol - forside - filter side ----------*/
-.tools-grid {
-  font-family: "Abel", sans-serif;
-  font-size: 18px;
-  color: #252525;
-  padding-left: 34px;
-}
-
 .choose_category_section {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-  margin-left: 25%;
-  margin-right: 27%;
-  margin-top: 8%;
-  height: 90px;
+  padding: 1em;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 39% 36% 5%;
+      grid-template-columns: 20% 39% 36% 5%;
 }
 
 .choose_category_img {
   border: 1px solid #252525;
-  height: 80px;
+  /*height: 80px;*/
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  width: 100%;
 }
 
 .choose_category_arrow {
   height: 20px;
   padding-top: 22px;
-  padding: 22px 10px 22px 40%;
 }
 
 /*-----*/

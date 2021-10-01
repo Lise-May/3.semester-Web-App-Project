@@ -144,33 +144,26 @@ nav a {
 
 /*-----*/
 /*---------- Vaske symbol - forside - filter side ----------*/
-.tools-grid{
-  font-family: $primary_font;
-  font-size: 18px;
-  color: $primary_black;
-  padding-left: 34px;
-}
-
 
 .choose_category_section{
-  display: flex;
-  justify-content: space-evenly;
-  margin-left: 25%;
-  margin-right: 27%;
-  margin-top: 8%;
-  height: 90px;
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 20% 39% 36% 5%;
 
 }
 
 .choose_category_img{
   border: 1px solid $primary_black;
-  height: 80px;
+  /*height: 80px;*/
+
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
 }
 
 .choose_category_arrow{
   height: 20px;
   padding-top: 22px;
-  padding: 22px 10px 22px 40%;
 }
 
 
