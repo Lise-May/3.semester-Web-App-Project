@@ -247,7 +247,7 @@
         "title":"Tørretumbles",
         "Category":"Tørreing",
         "img": "img/Tørring-Tørretumbles-Normal-Te.JPG",
-        "type":"Ved normal temperatur",
+        "type":"Normal temperatur",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørretumblers, men IKKE ved høj temperatur. Den typiske funktionen hedder''skabstør''.</p><h3>Vigtig information</h3><p>HUSK at tjekke om din tørretumblers ''skabstør'' tørre vedlavere temperatur.</p>"
     },
@@ -274,7 +274,7 @@
         "title":"Liggetørring",
         "Category":"Tørreing",
         "img": "img/Tørring-Liggetørring.JPG",
-        "type":"Skal ligge vandret og tørre",
+        "type":"Skal ligge vandret",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal ligge vandret at tørre.</p><h3>God information</h3><p>Produktet har bedst af at ligge frit så det kan få godt med luft.</p><p>Du kan også ligge produktet på et håndklæde og lade det tørre der.</p>"
     },
