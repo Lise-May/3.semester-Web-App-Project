@@ -32,7 +32,24 @@ function appendIcons(icons) {
     document.querySelector('#icons-container').innerHTML = htmlTemplate;
 }
 
-//Filter funktioen sortBy
+//Filter
+function filterByCategory(type) {
+    if (type === "all") {
+        appendIcons(_icons;
+    } else {
+        const results = _icons.filter(icon => icon.Category === type);
+        appendIcons(results)
+    }
+}
+
+
+function resetFilterByCategory() {
+    document.querySelector("#filterByCategory").value = "all";
+}
+
+
+/*
+//Filter funktioen sortBy - 
 function sortBy(option) {
     if (option === "vask") {
         sortByVask();
@@ -80,7 +97,7 @@ function sortByStrygning() {
         return icon1.strygning.localeCompare(icon2.strygning);
     });
     appendIcons(_icons);
-}
+}*/
 
 //vis detaljeret info om ikonet
 function showDetailView(id) {
