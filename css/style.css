@@ -31,8 +31,9 @@ h3 {
 
 h4 {
   font-family: "Abel", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #252525;
+  margin-left: -10px;
 }
 
 p {
@@ -70,8 +71,8 @@ body {
 .line {
   height: 2px;
   background-color: #a19e9e;
-  width: 65%;
-  margin: 15px 0 20px 27%;
+  width: 75%;
+  margin: 15px 0 20px 22%;
 }
 
 /*-----*/
@@ -134,8 +135,8 @@ nav a {
   padding: 1em;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 20% 39% 36% 5%;
-      grid-template-columns: 20% 39% 36% 5%;
+  -ms-grid-columns: 18% 40% 37% 5%;
+      grid-template-columns: 18% 40% 37% 5%;
 }
 
 .choose_category_img {
@@ -154,12 +155,40 @@ nav a {
 
 /*-----*/
 /*---------- se detalje side -----------*/
-.icon_img_about {
+.tools-grid {
+  padding-left: 4%;
+  padding-bottom: 12px;
+}
+
+#sortBy {
+  width: 100px;
+}
+
+.washing_symbol_filter {
+  font-family: "Abel", sans-serif;
+  color: #252525;
+  font-size: 18px;
+}
+
+.detaild_view_img {
   border: 1px solid #252525;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  height: 110px;
+  margin: 25px 33% 0 33%;
+}
+
+.detaild_view_article {
+  padding: 0 10% 0 10%;
+}
+
+.detaild_view_h2 {
+  padding-bottom: unset;
+  margin-top: 5px;
+  margin-bottom: -15px;
+}
+
+.detaild_view_h3 {
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 /*-----*/

@@ -70,12 +70,12 @@
                 <label for="sortBy" class="washing_symbol_filter">Filtrer efter:
                         <select id="sortBy" onchange="filterByCategory(this.value)">
                         <section class="washing_symbol_section"></section>
-                            <option value="" selected disabled>Alle</option>
-                            <option value="vask">Vask</option>
-                            <option value="blegning">Blegning</option>
-                            <option value="rensning">Rensning</option>
-                            <option value="tørring">Tørring</option>
-                            <option value="strygning">Strygning</option>
+                            <option value="all" selected disabled>Alle</option>
+                            <option value="Vask">Vask</option>
+                            <option value="Blegning">Blegning</option>
+                            <option value="Rensning">Rensning</option>
+                            <option value="Tørring">Tørring</option>
+                            <option value="Strygning">Strygning</option>
                         </select>
                     </section>
                 </label>
@@ -87,7 +87,7 @@
         <!-- se detalje side -->
         <section id="detail-view" class="page">
             <header class="topbar">
-                <a class="nav-link" href="#/"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
+                <a class="nav-link" href="#/washingSymbolFilter"><img src="img/Tilbage-Pil.png" class="back_arrow" alt=""></a>
                 <h1 class="title">Laundry Helper</h1>
             </header>
             <section id="detail-view-container"></section>

@@ -6,7 +6,7 @@
         "img": "img/Vask-N-30.JPG",
         "type":"Normal maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 30°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Ja maskinen kan fyldes som normalt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 30°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Ja maskinen kan fyldes som normalt.</p>"
     },
     {
         "id":2,
@@ -15,7 +15,7 @@
         "img": "img/Vask-N-40.JPG",
         "type":"Normal maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 40°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Ja, maskinen kan fyldes som normalt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 40°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Ja, maskinen kan fyldes som normalt.</p>"
     },
     {
         "id":3,
@@ -24,7 +24,7 @@
         "img": "img/Vask-N-50.JPG",
         "type":"Normal maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 50°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Ja, maskinen kan fyldes som normalt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 50°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Ja, maskinen kan fyldes som normalt.</p>"
     },
     {
         "id":4,
@@ -33,7 +33,7 @@
         "img": "img/Vask-N-60.JPG",
         "type":"Normal maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 60°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Ja, maskinen kan fyldes som normalt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 60°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Ja, maskinen kan fyldes som normalt.</p>"
     },
     {
         "id":5,
@@ -42,7 +42,7 @@
         "img": "img/Vask-N-95.JPG",
         "type":"Normal maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 95°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Ja, maskinen kan fyldes som normalt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 95°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Ja, maskinen kan fyldes som normalt.</p>"
     },
     {
         "id":6,
@@ -51,7 +51,7 @@
         "img": "img/Vask-S-30.JPG",
         "type":"Skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 30° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 30° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
     },
     {
         "id":7,
@@ -60,7 +60,7 @@
         "img": "img/Vask-S-40.JPG",
         "type":"Skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 40° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 40° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
     },
     {
         "id":8,
@@ -69,7 +69,7 @@
         "img": "img/Vask-S-50.JPG",
         "type":"Skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 50° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 50° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
     },
     {
         "id":9,
@@ -78,7 +78,7 @@
         "img": "img/Vask-S-60.JPG",
         "type":"Skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 60° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 60° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
     },
     {
         "id":10,
@@ -87,7 +87,7 @@
         "img": "img/Vask-S-95.JPG",
         "type":"Skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 95° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et skånsomt 95° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/2 op.</p>"
     },
     {
         "id":11,
@@ -96,7 +96,7 @@
         "img": "img/Vask-ES-30.JPG",
         "type":"Ekstra skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et ekstra skånsomt 30° program.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/3 op.</p><h3>Praktisk info</h3><p>Benyt evt. vaskeposer, eller benyt et uld/silkeprogram,hvis produktet er en af disse materialer.</p> <p>Husk også at benytte, ekstra skånsom centrifugering.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på et ekstra skånsomt 30° program.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/3 op.</p><h4>Praktisk info</h4><p>Benyt evt. vaskeposer, eller benyt et uld/silkeprogram,hvis produktet er en af disse materialer.</p> <p>Husk også at benytte, ekstra skånsom centrifugering.</p><br><br><br>"
     },
     {
         "id":12,
@@ -105,7 +105,7 @@
         "img": "img/Vask-ES-40.JPG",
         "type":"Ekstra skånsom maskinevask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 40°</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Må maskinen fyldes helt op?</h3><p>Du anbefales til kun at fylde maskinen 1/3 op.</p><h3>Praktisk info</h3><p>Benyt evt. vaskeposer, eller benyt et uld/silkeprogram, hvis produktet er en af disse materialer.</p><p>Husk også at benytte, ekstra skånsom centrifugering.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du anbefales til at vaske den pågældende ting på 40°</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Må maskinen fyldes helt op?</h4><p>Du anbefales til kun at fylde maskinen 1/3 op.</p><h4>Praktisk info</h4><p>Benyt evt. vaskeposer, eller benyt et uld/silkeprogram, hvis produktet er en af disse materialer.</p><p>Husk også at benytte, ekstra skånsom centrifugering.</p><br><br><br>"
     },
     {
         "id":13,
@@ -114,7 +114,7 @@
         "img": "img/Vask-Hånd.JPG",
         "type":"Håndvask",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du maks. må vaske med en temperatur på 40°. Vær forsigtig når du vasker og trækker i et produkt med dette symbol, da produktet sikkert er delikat, eller har nogle detaljer der kan gå i stykker.</p><h3>Tøj sortering</h3><p>Læs om hvordan du sortere dit tøj her.</p><h3>Sådan vasker du i hånden</h3><p>1. Fyld en balje eller din vask med 40° varmt vand (det skal være så du kan have din hånd i vandet, uden at brande dig).</p><p>2. Læg tøjet i vandet, og vask det forsigtigt i vandet.</p><p>3. Tøm vandet ud, og hæld noget rent vand i baljen eller vasken, og skyld tøjet af, og hæng det til tørre bagefter.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du maks. må vaske med en temperatur på 40°. Vær forsigtig når du vasker og trækker i et produkt med dette symbol, da produktet sikkert er delikat, eller har nogle detaljer der kan gå i stykker.</p><h4>Tøj sortering</h4><p>Læs om hvordan du sortere dit tøj her.</p><h4>Sådan vasker du i hånden</h3><p>1. Fyld en balje eller din vask med 40° varmt vand (det skal være så du kan have din hånd i vandet, uden at brande dig).</p><p>2. Læg tøjet i vandet, og vask det forsigtigt i vandet.</p><p>3. Tøm vandet ud, og hæld noget rent vand i baljen eller vasken, og skyld tøjet af, og hæng det til tørre bagefter.</p><br><br>"
     },
     {
         "id":14,
@@ -123,7 +123,7 @@
         "img": "img/Vask-Nej-40.JPG",
         "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du IKKE må vaske dette produkt.</p><h3>Hvad gør jeg så?</h3><p>Hæng produktet udenfor for at blive luftet.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du IKKE må vaske dette produkt.</p><h4>Hvad gør jeg så?</h4><p>Hæng produktet udenfor for at blive luftet.</p>"
     },
     {
         "id":15,
@@ -132,7 +132,7 @@
         "img": "img/Blegning-Ja.JPG",
         "type":"Hårdt for tøjet",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du kan blege produktet.</p><h3>Vigtig information</h3><p>Alle former for blege middel er hårdt for tøjet, og at fibrene i tøjet vil blive ødelagt med tiden.</p><p>Derfor er det vigtigt at du kun bleger dit tøj, hvis det er meget vigtigt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du kan blege produktet.</p><h4>Vigtig information</h4><p>Alle former for blege middel er hårdt for tøjet, og at fibrene i tøjet vil blive ødelagt med tiden.</p><p>Derfor er det vigtigt at du kun bleger dit tøj, hvis det er meget vigtigt.</p>"
     },
     {
         "id":16,
@@ -141,7 +141,7 @@
         "img": "img/Blegning-Oxygen.JPG",
         "type":"Kun med Oxygen",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at du kan blege produktet, dog kun ved benyttelse af oxygen </p><h3>Vigtig information</h3><p>Alle former for blege middel er hårdt for tøjet, og at fibrene i tøjet vil blive ødelagt med tiden.</p><p>Derfor er det vigtigt at du kun bleger dit tøj, hvis det er meget vigtigt.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at du kan blege produktet, dog kun ved benyttelse af oxygen </p><h4>Vigtig information</h4><p>Alle former for blege middel er hårdt for tøjet, og at fibrene i tøjet vil blive ødelagt med tiden.</p><p>Derfor er det vigtigt at du kun bleger dit tøj, hvis det er meget vigtigt.</p>"
     },
     {
         "id":15,
@@ -150,7 +150,7 @@
         "img": "img/Blegning-Nej.JPG",
         "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive bleget.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at produktet IKKE kan tåle at blive bleget.</p>"
     },
     {
         "id":16,
@@ -159,7 +159,7 @@
         "img": "img/Rensning-kulbrinte.JPG",
         "type":"Med kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af kulbrinte.</p><h3>Hvad er kulbrinte?</h3><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af kulbrinte.</p><h4>Hvad er kulbrinte?</h4><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
     },
     {
         "id":17,
@@ -168,7 +168,7 @@
         "img": "img/Rensning-S-kulbrinte.JPG",
         "type":"Med kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af kulbrinte.</p><h3>Hvad er kulbrinte?</h3><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af kulbrinte.</p><h4>Hvad er kulbrinte?</h4><p>Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
     },
     {
         "id":18,
@@ -177,7 +177,7 @@
         "img": "img/Rensning-perklor-kulbrinte.JPG",
         "type":"Med perklor eller kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af perklor eller kulbrinte.</p><h3>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af perklor eller kulbrinte.</p><h4>Hvad er perklor og kulbrinte?</h4><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
     },
     {
         "id":19,
@@ -186,7 +186,7 @@
         "img": "img/Rensning-S-perklor-kulbrinte.JPG",
         "type":"Med perklor eller kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af perklor eller kulbrinte.</p><h3>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af perklor eller kulbrinte.</p><h4>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
     },
     {
         "id":20,
@@ -195,7 +195,7 @@
         "img": "img/Rensning-Nej.JPG",
         "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet IKKE må renses.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet IKKE må renses.</p>"
     },
     {
         "id":21,
@@ -204,7 +204,7 @@
         "img": "img/Rensning-Pr-Vå.JPG",
         "type":"vådrens",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle professionelvådrens.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle professionelvådrens.</p>"
     },
     {
         "id":22,
@@ -213,7 +213,7 @@
         "img": "img/Rensning-S-Pr-Vå.JPG",
         "type":"Skånsom vådrens",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle skånsom professionel vådrens.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle skånsom professionel vådrens.</p>"
     },
     {
         "id":23,
@@ -222,7 +222,7 @@
         "img": "img/Rensning-ES-Pr-Vå.JPG",
         "type":"Ekstra skånsom vådrens",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tåle ekstra skånsom professionel vådrens.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle ekstra skånsom professionel vådrens.</p>"
     },
     {
         "id":24,
@@ -231,7 +231,7 @@
         "img": "img/Tørring-Tørretumbles.JPG",
         "type":"Uden særlig forbehold",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørres uden særlig forbehold. Den typiske funktionen for dette hedder ''skabstør plus''.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tørres uden særlig forbehold. Den typiske funktionen for dette hedder ''skabstør plus''.</p>"
     },
     {
         "id":25,
@@ -240,7 +240,7 @@
         "img": "img/Tørring-Tørretumbles-Lav-Te.JPG",
         "type":"Kun lav temperatur",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørretumblers ved lavtemperatur. Den typiske funktionen hedder ''strygetørt''.</p><h3>Vigtig information</h3><p>HUSK at tjekke om din tørretumblers ''strygetørt'' tørre vedlavere temperatur.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tørretumblers ved lavtemperatur. Den typiske funktionen hedder ''strygetørt''.</p><h4>Vigtig information</h4><p>HUSK at tjekke om din tørretumblers ''strygetørt'' tørre vedlavere temperatur.</p>"
     },
     {
         "id":26,
@@ -249,7 +249,7 @@
         "img": "img/Tørring-Tørretumbles-Normal-Te.JPG",
         "type":"Normal temperatur",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet kan tørretumblers, men IKKE ved høj temperatur. Den typiske funktionen hedder''skabstør''.</p><h3>Vigtig information</h3><p>HUSK at tjekke om din tørretumblers ''skabstør'' tørre vedlavere temperatur.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tørretumblers, men IKKE ved høj temperatur. Den typiske funktionen hedder''skabstør''.</p><h4>Vigtig information</h4><p>HUSK at tjekke om din tørretumblers ''skabstør'' tørre vedlavere temperatur.</p>"
     },
     {
         "id":27,
@@ -258,7 +258,7 @@
         "img": "img/Tørring-Nej.JPG",
         "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet IKKE kan tåle at tørretumblers.</p><h3>Hvad gør jeg så?</h3><p>Du kan i stedet hænge eller ligge produktet til tørre i stedet.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet IKKE kan tåle at tørretumblers.</p><h4>Hvad gør jeg så?</h4><p>Du kan i stedet hænge eller ligge produktet til tørre i stedet.</p>"
     },
     {
         "id":28,
@@ -267,7 +267,7 @@
         "img": "img/Tørring-Dryptørring.JPG",
         "type":"Hænges til tørre",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal dryptørre dit produkt.</p><h3>God information</h3><p>Du kan med fordel hænge produktet på en bøjle, så produktet hænger frit, og kan få massere af luft.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet skal dryptørre dit produkt.</p><h4>God information</h4><p>Du kan med fordel hænge produktet på en bøjle, så produktet hænger frit, og kan få massere af luft.</p>"
     },
     {
         "id":29,
@@ -276,7 +276,7 @@
         "img": "img/Tørring-Liggetørring.JPG",
         "type":"Skal ligge vandret",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal ligge vandret at tørre.</p><h3>God information</h3><p>Produktet har bedst af at ligge frit så det kan få godt med luft.</p><p>Du kan også ligge produktet på et håndklæde og lade det tørre der.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet skal ligge vandret at tørre.</p><h4>God information</h4><p>Produktet har bedst af at ligge frit så det kan få godt med luft.</p><p>Du kan også ligge produktet på et håndklæde og lade det tørre der.</p>"
     },
     {
         "id":30,
@@ -285,7 +285,7 @@
         "img": "img/Tørring-Hængetørring.JPG",
         "type":"Kan evt. hænge på et tørrestativ",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet skal hænge til tørre.</p><h3>God information</h3><p>Benyt med fordel et tørrestativ eller lig, så det kan få en masse luft.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet skal hænge til tørre.</p><h4>God information</h4><p>Benyt med fordel et tørrestativ eller lig, så det kan få en masse luft.</p>"
     },
     {
         "id":31,
@@ -294,34 +294,34 @@
         "img": "img/Tørring-Skygge.JPG",
         "type":"Ikke i sollys",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Symbolet betyder at produktet SKAL tørre i skyggen. Derfor må det ikke ligge, at tørre i direkte sollys</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet SKAL tørre i skyggen. Derfor må det ikke ligge, at tørre i direkte sollys</p>"
     },
     {
         "id":32,
-        "title":"Kan stryges",
+        "title":"Maks. 110°",
         "Category":"Strygning",
         "img": "img/Stryge-Lav-Te.JPG",
-        "type":"Maks. 110°",
+        "type":"Kan stryges",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved lav temperatur som maks. er 110°.</p><h3>Vigtig information</h3><p>Produktet kan højst sandsynlig vis IKKE tåle damp, derfor skal du være meget opmærksom på dette.</p><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at produktet kan stryges ved lav temperatur som maks. er 110°.</p><h4>Vigtig information</h4><p>Produktet kan højst sandsynlig vis IKKE tåle damp, derfor skal du være meget opmærksom på dette.</p><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
     },
     {
         "id":33,
-        "title":"Kan stryges",
+        "title":"Maks. 150°",
         "Category":"Strygning",
         "img": "img/Stryge-Middel-Te.JPG",
-        "type":"Maks. 150°",
+        "type":"Kan stryges",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved en midden temperatur som maks. er 150°.</p><h3>Vigtig information</h3><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at produktet kan stryges ved en midden temperatur som maks. er 150°.</p><h4>Vigtig information</h4><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
     },
     {
         "id":34,
-        "title":"Kan stryges",
+        "title":"Maks. 200°",
         "Category":"Strygning",
         "img": "img/Stryge-Høj-Te.JPG",
-        "type":"Maks. 200°",
+        "type":"Kan stryges",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet kan stryges ved høj temperatur som maks. er 200°.</p><h3>Vigtig information</h3><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at produktet kan stryges ved høj temperatur som maks. er 200°.</p><h4>Vigtig information</h4><p>Vær også ekstra opmærksom på at INGEN produkter kan tåle en høj temperatur i længere tid af gangen, og at der ved denne høje temperatur er en risiko for varmeskade.</p>"
     },
     {
         "id":35,
@@ -330,7 +330,7 @@
         "img": "img/Stryge-Nej.JPG",
         "type":"",
         "arrow":"img/Læs-Mere-Pil.png",
-        "description":"<h3>Hvad betyder symbolet?</h3><p>Sybolet betyder at produktet IKKE kan tåle at blive strøget.</p>"
+        "description":"<h4>Hvad betyder symbolet?</h4><p>Sybolet betyder at produktet IKKE kan tåle at blive strøget.</p>"
     }
     
 ]
