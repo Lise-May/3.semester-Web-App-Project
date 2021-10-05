@@ -5,7 +5,7 @@ let _icons = [];
 
 /* --------------------------------------- Vaske symbol med filter side ---------------------------------------------------*/
 
-//Fetches json data fra  the file icons.json
+//Fetches json data fra icons.json
 async function fetchData() {
     const response = await fetch('json/icons.json');
     const data = await response.json();
