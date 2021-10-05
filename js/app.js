@@ -43,11 +43,7 @@ function filterByCategory(type) {
     }
 }
 
-function resetFilterByCategory() {
-    document.querySelector("#filterByCategory").value = "all";
-}
-
-//vis detaljeret info om ikonet
+//vis detaljeret info om ikonet, en funktionen
 function showDetailView(id) {
     const iconToShow = _icons.find(icon => icon.id === id);
     navigateTo("#/detail-view");
