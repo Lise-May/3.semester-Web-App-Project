@@ -174,7 +174,7 @@
         "id":18,
         "title":"Kan rensens",
         "Category":"Rensning",
-        "img": "img/Rensning-perklor-kulbrinte.JPG",
+        "img": "img/Rensning-Perklor-Kulbrinte.JPG",
         "type":"Med perklor eller kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle rens, ved benyttelse af perklor eller kulbrinte.</p><h4>Hvad er perklor og kulbrinte?</h4><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
@@ -183,7 +183,7 @@
         "id":19,
         "title":"Skånsom rens",
         "Category":"Rensning",
-        "img": "img/Rensning-S-perklor-kulbrinte.JPG",
+        "img": "img/Rensning-S-Perklor-Kulbrinte.JPG",
         "type":"Med perklor eller kulbrinte",
         "arrow":"img/Læs-Mere-Pil.png",
         "description":"<h4>Hvad betyder symbolet?</h4><p>Symbolet betyder at produktet kan tåle skånsom rens, ved benyttelse af perklor eller kulbrinte.</p><h4>Hvad er perklor og kulbrinte?</h3><p>Perklor og Kulbrinte er et opløsningsmiddel, der benyttes til rensning. </p>"
